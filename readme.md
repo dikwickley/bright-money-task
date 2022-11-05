@@ -84,3 +84,5 @@ https://www.youtube.com/watch?v=cJveiktaOSQ
 https://www.section.io/engineering-education/api-authentication-with-django-knox-and-postman-testing/
 https://realpython.com/asynchronous-tasks-with-django-and-celery/
 https://plaid.com/docs/api/
+
+#### time spent 4 hours
