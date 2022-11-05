@@ -47,6 +47,7 @@ def token_exchange(request: Request):
         "client_id": settings.PLAID_CLIENT_ID,
         "secret": settings.PLAID_SECRET,
         "public_token":public_token,
+        'webhook': 'https://sample-webhook-uri.com',
     }
     headers = {
     'Content-Type': "application/json",
